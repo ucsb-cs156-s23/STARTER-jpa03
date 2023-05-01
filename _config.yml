@@ -23,4 +23,4 @@ repo_name: "TBD"
 repo: ucsb-cs156-s23/STARTER-jpa03
 owner: ucsb-cs156-s23
 repo_name: STARTER-jpa03
-pull_requests: [{"author":{"id":"MDQ6VXNlcjExMTkwMTc=","is_bot":false,"login":"pconrad","name":"Phill Conrad"},"headRefName":"pc-javadoc-LoggingAspect","number":4,"title":"pc - add javadoc to LoggingAspect","url":"https://github.com/ucsb-cs156-s23/STARTER-jpa03/pull/4"},{"author":{"id":"MDQ6VXNlcjExMTkwMTc=","is_bot":false,"login":"pconrad","name":"Phill Conrad"},"headRefName":"test-branch-02","number":2,"title":"Update .env.SAMPLE","url":"https://github.com/ucsb-cs156-s23/STARTER-jpa03/pull/2"}]
+pull_requests: [{"author":{"id":"MDQ6VXNlcjExMTkwMTc=","is_bot":false,"login":"pconrad","name":"Phill Conrad"},"headRefName":"test-branch-02","number":2,"title":"Update .env.SAMPLE","url":"https://github.com/ucsb-cs156-s23/STARTER-jpa03/pull/2"}]
